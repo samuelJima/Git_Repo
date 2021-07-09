@@ -6,3 +6,5 @@
    Repository mark down file 
 # Development 
  open index.html in a new browser 
+# Implementaion 
+  index implementation detail 
